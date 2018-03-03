@@ -1,0 +1,8 @@
+Package: cligen
+Version: 1.0.0
+Section: base
+Priority: optional
+Depends: libcurl4-openssl-dev, flex, bison
+Maintainer: Olof Hagsand <olof@hagsand.se>
+Description: Grideye Agent and plugins
+ Bla bla.
