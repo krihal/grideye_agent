@@ -127,7 +127,7 @@ echo "GRIDEYE_PLUGIN_DIR: $GRIDEYE_PLUGIN_DIR"
 AC_OUTPUT(
 	Makefile
 	plugins/Makefile
-	docker/Makefile
-	docker/Dockerfile
+	util/docker/Makefile
+	util/docker/Dockerfile
 
 )
