@@ -62,7 +62,7 @@ MYLIBSO      = libgrideye_agent.so.1
 MYLIBLINK    = libgrideye_agent.so
 
 # Sub-directores.
-SUBDIRS = plugins util/docker
+SUBDIRS = plugins
 
 .PHONY:	build.c all clean distclean install uninstall depend TAGS $(SUBDIRS)
 

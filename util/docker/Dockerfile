@@ -26,7 +26,7 @@ WORKDIR /grideye
 # Clone all dependencies and grideye-agent
 RUN git clone https://github.com/olofhagsand/cligen.git
 RUN git clone https://github.com/clicon/clixon.git
-RUN git clone https://github.com/krihal/grideye_agent.git
+RUN git clone https://github.com/olofhagsand/grideye_agent.git
 
 # Build cligen
 WORKDIR /grideye/cligen
