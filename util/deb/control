@@ -1,9 +1,0 @@
-Package: cligen
-Version: 1.3.0
-Section: base
-Priority: optional
-Depends: libcurl4-openssl-dev, flex, bison
-Architecture: amd64
-Maintainer: Olof Hagsand <olof@hagsand.se>
-Description: Grideye Agent and plugins
- Agent for the Grideye monitoring solution.
